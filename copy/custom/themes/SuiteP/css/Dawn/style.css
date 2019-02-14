@@ -1,0 +1,82 @@
+div.inlineEdit ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+div.inlineEdit ul li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+
+
+div.inlineEdit ul br{
+    display: none;
+}
+
+
+
+div.inlineEdit ol{
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    }
+
+div.inlineEdit ol li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+div.inlineEdit ol br{
+    display: none;
+}
+div.inlineEdit ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+div.inlineEdit ul li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+
+
+div.inlineEdit ul br{
+    display: none;
+}
+
+
+
+div.inlineEdit ol{
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    }
+
+div.inlineEdit ol li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+div.inlineEdit ol br{
+    display: none;
+}
