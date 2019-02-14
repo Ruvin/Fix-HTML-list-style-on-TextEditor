@@ -1,4 +1,4 @@
-## SuiteCRM - Fixed the Text editor issue when showing the List (<ul> or <ol>) on DetailView.
+## SuiteCRM - Fixed the Text editor issue when showing the List (`<ul>` or `<ol>`) on DetailView.
 
 ### What's in this repository 
 
